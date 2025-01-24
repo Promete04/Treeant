@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="second-assignment-cepepe" Database="" Version="10000">
+  <Project Name="second-assignment-cepepe" Path="second-assignment-cepepe/second-assignment-cepepe.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="second-assignment-cepepe" ConfigName="Debug"/>
+      <Project Name="second-assignment-cepepe" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="second-assignment-cepepe" ConfigName="Debug"/>
+      <Project Name="second-assignment-cepepe" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="second-assignment-cepepe" Version="11000" InternalType="">
+  <VirtualDirectory Name="peque-image-manager">
+    <File Name="peque-image-manager/TinyImageJM.hpp"/>
+    <File Name="peque-image-manager/TinyImageJM.cpp"/>
+    <File Name="peque-image-manager/RGBPixelXY.hpp"/>
+    <File Name="peque-image-manager/RGBPixelXY.cpp"/>
+  </VirtualDirectory>
+  <Reconciliation>
+    <Regexes/>
+    <Excludepaths/>
+    <Ignorefiles/>
+    <Extensions>
+      <![CDATA[*.cpp;*.c;*.h;*.hpp;*.xrc;*.wxcp;*.fbp]]>
+    </Extensions>
+    <Topleveldir>/Users/alexl/Documents/GitHub/second-assignment-cepepe/second-assignment-cepepe/second-assignment-cepepe</Topleveldir>
+  </Reconciliation>
+  <Description/>
+  <Dependencies/>
+  <VirtualDirectory Name="src">
+    <File Name="BinaryBalancedTree.cpp"/>
+    <File Name="Operations.cpp"/>
+    <File Name="SumRGBListNode.cpp"/>
+    <File Name="SumRGBList.cpp"/>
+    <File Name="main.cpp"/>
+    <File Name="TreeNode.cpp"/>
+    <File Name="SinglyLinkedList.cpp"/>
+    <File Name="QueuePixel.cpp"/>
+    <File Name="ElemPixel.cpp"/>
+    <File Name="Core.cpp"/>
+    <File Name="BinarySearchTree.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="include">
+    <File Name="BinaryBalancedTree.hpp"/>
+    <File Name="Operations.hpp"/>
+    <File Name="SumRGBListNode.hpp"/>
+    <File Name="SumRGBList.hpp"/>
+    <File Name="TreeNode.hpp"/>
+    <File Name="SinglyLinkedList.hpp"/>
+    <File Name="QueuePixel.hpp"/>
+    <File Name="ElemPixel.hpp"/>
+    <File Name="Core.hpp"/>
+    <File Name="BinarySearchTree.hpp"/>
+  </VirtualDirectory>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="gcc-10.3.0" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-std=gnu++11;-g -Wall" C_Options="" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="-O0" Required="yes">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="Debug"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(ProjectName).exe" IntermediateDirectory="" Command="$(WorkspacePath)/build-$(WorkspaceConfiguration)/bin/$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="$(WorkspacePath)/build-$(WorkspaceConfiguration)/lib" PauseExecWhenProcTerminates="no" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="CodeLite Makefile Generator"/>
+      <Environment EnvVarSetName="&lt;Use Defaults&gt;" DbgSetName="&lt;Use Defaults&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName/>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+</CodeLite_Project>
