@@ -1,9 +1,9 @@
 
 # Treeant
 
-<img src="https://github.com/DataStructuresAlcala/second-assignment-cepepe/blob/main/docs/images/logo.webp" width=200>
+<img src="https://github.com/Promete04/Treeant/blob/main/docs/images/logo.webp" width=200>
 
-Treeant is project belonging to the DataStructures course made by [Alejandro López Martínez](https://github.com/alejandrolm18) y [Guillermo Ramos Santos](https://github.com/Promete04).  This repository contains all the source code, and required documentation in order to reflect the development process.
+Treeant is project belonging to the DataStructures course made by [Alejandro López](https://github.com/alejandrolm18) y [Guillermo Ramos](https://github.com/Promete04).  This repository contains all the source code, and required documentation in order to reflect the development process.
 
 ## Documentation
 
